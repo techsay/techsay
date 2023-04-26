@@ -1,4 +1,11 @@
-### Hi there 👋
+### Mark 👋
+
+- 🌱  2023-05 准备学习点东西，并在此做笔记📒
+- 📧 有任何疑问请提issue给我，会有参考内容，侵权联系必删。
+
+谢谢🙏
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techsay&theme=vue-dark&show_icons=true)
 
 <!--
 **techsay/techsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
